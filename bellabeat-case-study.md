@@ -20,7 +20,7 @@ This analysis uses the **FitBit Fitness Tracker Data** (Kaggle, CC0: Public Doma
 - **Sample size:** The dataset claims 30 users but actually contains 35 unique IDs in the activity data.
 - **Timeframe:** Roughly two months of data from 2016 — dated, and too short to capture seasonal or long-term behavior patterns.
 - **No demographic data:** No age, gender, or location fields, which limits how confidently findings can be generalized to Bellabeat's target audience (women).
-- **Sleep data coverage:** Only about 30% of activity-days (410 of 1,367) have corresponding sleep data logged, limiting the reliability of sleep-related findings relative to activity-related ones.
+- **Sleep data coverage:** Only about 30% of activity-days (410 of 1,367) have corresponding sleep data logged, limiting the reliability of sleep-related findings relative to activity-related ones, and Slee data is only present between 4/12/2016–5/12/2016.
 - **Self-selected sample:** Users opted in to share their data, which may not represent typical device-user behavior.
 
 Given these limitations, findings here are treated as **directional signals**, not statistically definitive population-level conclusions.
@@ -68,7 +68,7 @@ Using a strict definition (zero steps and zero calories), only 6 of 1,373 total 
 
 Interactive dashboard built in Tableau Public:
 
-**🔗 [View the full interactive dashboard here]( PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE )**
+**🔗 [View the full interactive dashboard here]( https://public.tableau.com/views/FitBit_17906549293210/KeyFindings?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )**
 
 The dashboard includes:
 - Average minutes per day by activity level (Sedentary/Light/Moderate/Very Active)
