@@ -1,0 +1,5 @@
+sleep_bucket,avg_steps,avg_calories,avg_very_active_minutes,avg_fairly_active_minutes,avg_lightly_active_minutes,avg_sedentary_minutes,num_days
+1_low_sleep,9536,2278,26.7,26.7,208.9,841.7,101
+2_medium_sleep,9073,2620,35.6,19.7,211.2,736.5,102
+3_high_sleep,8560,2452,23.4,16.5,224.2,693.4,103
+4_very_high_sleep,7079,2283,15.9,9.4,224.4,616.8,104

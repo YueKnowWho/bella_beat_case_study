@@ -1,0 +1,8 @@
+DayOfWeek,DayOfWeekNum,avg_minutes_asleep,min_minutes_asleep,max_minutes_asleep,days_with_sleep_data,avg_awake_in_bed_minutes,avg_steps,min_steps,max_steps,avg_distance,min_distance,max_distance,avg_sedentary_minutes,avg_light_minutes,avg_moderate_minutes,avg_very_active_minutes,avg_total_active_minutes,total_day_records
+Sunday,1,452.7,58,700,55,50.8,6641,0,36019,4.79,0,28.0300006866455,997.4,171,12.6,18.3,201.9,192
+Monday,2,419.5,62,796,46,37.8,7541,0,20779,5.37,0,18.4099998474121,1029.7,184.7,12.7,21.6,219,188
+Tuesday,3,404.5,103,750,65,38.8,7969,0,25536,5.71,0,22.179999589920069,1068.7,199.3,14.1,22.2,235.6,200
+Wednesday,4,434.7,152,658,66,35.3,7548,0,24136,5.46,0,20.9099998474121,994.7,189.9,13.4,19.9,223.2,198
+Thursday,5,401.3,59,545,64,33.6,7344,0,21129,5.25,0,18.9799995422363,980.2,182.8,12.7,19.1,214.7,193
+Friday,6,405.4,82,658,57,39.6,7188,0,23014,5.14,0,20.3899993896484,1020.3,194.7,15.8,18.6,229.1,199
+Saturday,7,419.1,61,775,57,41.5,7831,0,29326,5.6,0,26.7199993133545,964.2,202.7,14.4,21,238.1,197
