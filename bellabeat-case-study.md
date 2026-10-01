@@ -67,6 +67,7 @@ Using a strict definition (zero steps and zero calories), only 6 of 1,373 total 
 ## 5. Visualizations
 
 Interactive dashboard built in Tableau Public:
+<img width="1998" height="1598" alt="Key Findings" src="https://github.com/user-attachments/assets/2ea060d6-28d4-4a7c-97e1-130ea865b80c" />
 
 **🔗 [View the full interactive dashboard here]( https://public.tableau.com/views/FitBit_17906549293210/KeyFindings?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )**
 
